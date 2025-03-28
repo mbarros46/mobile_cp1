@@ -1,4 +1,4 @@
-Membros da equipe: Miguel Barros e Pedro Valentim
+Feito por: Miguel Barros 
 
 📱 Aplicativo de Validação de Notas e Faltas
 Este projeto foi desenvolvido em React Native para ajudar na validação de notas e controle de faltas de um aluno, determinando automaticamente se ele foi aprovado ou reprovado com base em critérios predefinidos.
